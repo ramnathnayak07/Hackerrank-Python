@@ -7,5 +7,5 @@ for i in range(m):
     temp = input()
     if temp in d:
         print(*d[temp]) 
-    else: 
+    else:
         print(-1)
